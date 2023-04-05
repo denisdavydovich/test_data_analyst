@@ -20,7 +20,7 @@
 
 Файл с выходными данными - [output_data](https://github.com/denisdavydovich/test_data_analyst/blob/main/Data/output_data.csv)
 
-Посмотреть мой код -  [TZ_Junoir Data Analyst](https://github.com/denisdavydovich/test_data_analyst/blob/main/TZ_Junior%20Data%20Analyst.py) 
+Посмотреть мой код -  [TZ_Junior Data Analyst](https://github.com/denisdavydovich/test_data_analyst/blob/main/TZ_Junior%20Data%20Analyst.py) 
 
 Проект сделан с помощью Python 3.6+ в Jupyter Notebook c использованием библиотек Pandas, Seaborn, Matpotlib
 
