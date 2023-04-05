@@ -9,7 +9,7 @@
   </a>
 <div id="badges">
   <a href="https://hh.ru/resume/ccf212beff09ed34750039ed1f7351464e7435">
-    <img src="https://img.shields.io/badge/HeadHunter-red)"/>
+    <img src="https://img.shields.io/badge/HeadHunter-green)"/>
   </a>
 </div>
   
