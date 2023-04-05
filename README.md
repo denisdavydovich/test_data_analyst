@@ -3,8 +3,6 @@
 
 Здесь можно посмотреть мой готовый код для тестового задания:)  
 
-А в дальнейшем буду выкладывать сюда свои проекты с обучения в Яндекс.Практикуме
-
 Чтобы посмотреть данные для проекта и готовые изображения с графиками - нужно перейти в папку [Data](https://github.com/denisdavydovich/test_data_analyst/tree/main/Data)
 
 Файл с выходными данными - [output_data](https://github.com/denisdavydovich/test_data_analyst/blob/main/Data/output_data.csv)
