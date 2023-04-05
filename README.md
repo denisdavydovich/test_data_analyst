@@ -10,7 +10,7 @@
  <div align="center">
 <div id="badges">
   <a href="https://hh.ru/resume/ccf212beff09ed34750039ed1f7351464e7435">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/HH-red)" alt="HH Badge"/>
   </a>
 </div>
   
