@@ -7,8 +7,7 @@
 
 Чтобы посмотреть данные для проекта и готовые изображения с графиками - нужно перейти в папку [Data](https://github.com/denisdavydovich/test_data_analyst/tree/main/Data)
 
-Файл с входными данными - 
-Файл с выходными данными - 
+Файл с выходными данными - https://github.com/denisdavydovich/test_data_analyst/blob/main/Data/output_data.csv 
 
 Посмотреть мой код -  [TZ_Junoir Data Analyst](https://github.com/denisdavydovich/test_data_analyst/blob/main/TZ_Junior%20Data%20Analyst.py) 
 
