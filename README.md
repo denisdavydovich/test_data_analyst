@@ -1,5 +1,4 @@
- <h1 align="center">Здравствуйте, это мой проект <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+ <h1 align="center">Здравствуйте, это мой проект height="32"/></h1>
 <h3 align="center">анализ данных для НИУ ВШЭ🇺</h3># Анализ данных НИУ ВШЭ
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
