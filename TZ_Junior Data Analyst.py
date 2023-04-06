@@ -101,7 +101,8 @@ for area in data['area'].unique():
     ax.set_aspect('equal')
     plt.tight_layout()
 
-    # сохранение диаграммы рассеяния в файл
-    plt.savefig(f'/home/denis/Рабочий стол/{area}.png', dpi=300)
+    # сохранение диаграммы рассеяния в файл и смена размера изображений
+    fig.set_size_inches(1500/100, 1500/100)
+    plt.savefig(f'/home/denis/Рабочий стол/{area}.png', dpi=100)
     plt.close()
 
