@@ -41,7 +41,7 @@ for area in data['area'].unique():
         else:
             cluster_colors[(area, cluster)] = palette[i].upper()
 
-# Add color column to data
+# Добавление колонки c цветом в Data
 default_color = sns.color_palette('hls', 1)
 data['color'] = data.apply(lambda row: cluster_colors.get((row['area'], row['cluster']), default_color[0]), axis=1)
 
