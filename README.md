@@ -10,7 +10,7 @@
 
 Файл с входными данными - [input_data](https://github.com/denisdavydovich/test_data_analyst/blob/main/%20tz_data.csv)
 
-Файл с выходными данными - [output_data](https://github.com/denisdavydovich/test_data_analyst/blob/main/%20output_data.csv)
+Файл с выходными данными - [output_data](https://github.com/denisdavydovich/test_data_analyst/blob/main/output_data.csv)
 
 
 
