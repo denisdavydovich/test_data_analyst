@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # загрузка данных из файла
-data = pd.read_csv('/home/denis/Рабочий стол/ tz_data.csv')
+data = pd.read_csv('tz_data.csv')
 
 # удаление лишних колонок
 columns = ['area', 'cluster', 'cluster_name', 'keyword', 'x', 'y', 'count']
@@ -60,7 +60,7 @@ data.to_csv('/home/denis/Рабочий стол/output_data.csv', index=False)
 
 
 # загрузка данных из файла
-data = pd.read_csv('/home/denis/Рабочий стол/output_data.csv')
+data = pd.read_csv('output_data.csv')
 
 # определение цветов для кластеров
 colors = {
