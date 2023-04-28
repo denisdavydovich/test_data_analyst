@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # загрузка данных из файла
-data = pd.read_csv('tz_data.csv')
+data = pd.read_csv(' tz_data.csv')
 
 # удаление лишних колонок
 columns = ['area', 'cluster', 'cluster_name', 'keyword', 'x', 'y', 'count']
@@ -18,15 +18,15 @@ data = data[columns].sort_values(['area', 'cluster', 'cluster_name', 'count'], a
 
 # добавление заголовков
 header = 'area, cluster, cluster_name, keyword, x, y, count, color\n'
-with open('output_data.csv', 'w') as f:
+with open(' output_data.csv', 'w') as f:
     f.write(header)
     data.to_csv(f, index=False, header=False)
 
 # добавление фильтра
 filter_row = 'Filter: ,,,\n'
-with open('output_data.csv', 'r') as f:
+with open(' output_data.csv', 'r') as f:
     content = f.read()
-with open('output_data.csv', 'w') as f:
+with open(' output_data.csv', 'w') as f:
     f.write(filter_row)
     f.write(content)
 
@@ -53,14 +53,14 @@ data.drop_duplicates(subset=['area', 'keyword'], keep='first', inplace=True)
 data = data.sort_values(by=['area', 'cluster', 'cluster_name', 'count'], ascending=[True, True, True, False])
 
 # сохранение данных в файл
-data.to_csv('/home/denis/Рабочий стол/output_data.csv', index=False)
+data.to_csv(' output_data.csv', index=False)
 
 
 # In[2]:
 
 
 # загрузка данных из файла
-data = pd.read_csv('output_data.csv')
+data = pd.read_csv(' output_data.csv')
 
 # определение цветов для кластеров
 colors = {
