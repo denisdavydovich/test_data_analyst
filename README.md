@@ -1,10 +1,10 @@
 
-<h3 align="center">Здравствуйте, это мой проект</h3>
+<h1 align="center">Анализ данных для ВШЭ</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-  
-Здесь можно посмотреть готовый код для тестового задания:)  
+
+<div align="center">Здесь можно посмотреть готовый код для тестового задания:)
 
 Чтобы посмотреть данные для проекта и готовые изображения с графиками - нужно перейти в папку [Data](https://github.com/denisdavydovich/test_data_analyst/tree/main/Data)
 
@@ -19,3 +19,4 @@
 Проект сделан с помощью Python 3.6+ в Jupyter Notebook c использованием библиотек Pandas, Seaborn, Matpotlib
 
 Приятного просмотра!
+</div>
